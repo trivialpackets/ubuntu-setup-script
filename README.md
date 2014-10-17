@@ -24,30 +24,18 @@ This script is made for my own use for updating, configuring and setting up my U
 
 ### This script will add the following repositories:
 
- * webupd8team/brackets
- ..* for the brackets editor
- * webupd8team/atom
- ..* for the atom editor (by github)
- * videolan/stable-daily
- ..* for various codecs and packages
- * webupd8team/y-ppa-manager
- ..* for the installation of Y-PPA-Manager
- * otto-kesselgulash/gimp
- ..* for an updated version of gimp and other gimp tools
- * Repository for Spotify
- ..* Because I prefer not running in the web all the time.
- * webupd8team/java
- ..* for updated java packages
- * libdvdcss repository from debian stable and videolan
- ..* for DVD playback (silly that you have to do this)
- * tualatrix/ppa
- ..* for Ubuntu-Tweak
- * noobslab/themes
- ..* for themes
- * noobslab/icons
- ..* for icons
- * chris-lea/node.js
- ..* for installation of nodejs
+ * webupd8team/brackets - for the brackets editor
+ * webupd8team/atom - for the atom editor (by github)
+ * videolan/stable-daily -  for various codecs and packages
+ * webupd8team/y-ppa-manager -  for the installation of Y-PPA-Manager
+ * otto-kesselgulash/gimp - for an updated version of gimp and other gimp tools
+ * Repository for Spotify - Because I prefer not running in the web all the time.
+ * webupd8team/java - for updated java packages
+ * libdvdcss repository from debian stable and videolan - for DVD playback (silly that you have to do this)
+ * tualatrix/ppa - for Ubuntu-Tweak
+ * noobslab/themes - for themes
+ * noobslab/icons - for icons
+ * chris-lea/node.js - for installation of nodejs
 
  ## Other Software that is Manually Installed
 
@@ -61,10 +49,12 @@ This script is made for my own use for updating, configuring and setting up my U
 
  ### This script will also:
 
- * Setup the firewall in Ubuntu
- ..* Install GUFW for GUI Administration of the firewall
- ..* Set the default action to deny for the firewall
- ..* Enable the firewall
+ **Setup the Firewall in Ubuntu
+ * Install GUFW for GUI Administration of the firewall
+ * Set the default action to deny for the firewall
+ * Enable the firewall
+
+ **Other**
  * Clean up after the installation.
  * Provide links for further stops for configuration
  * Gives credit where credit is due.

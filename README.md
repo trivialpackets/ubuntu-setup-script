@@ -49,12 +49,12 @@ This script is made for my own use for updating, configuring and setting up my U
 
  ### This script will also:
 
- **Setup the Firewall in Ubuntu
+ #### Setup the Firewall in Ubuntu
  * Install GUFW for GUI Administration of the firewall
  * Set the default action to deny for the firewall
  * Enable the firewall
 
- **Other**
+ #### Other
  * Clean up after the installation.
  * Provide links for further stops for configuration
  * Gives credit where credit is due.
